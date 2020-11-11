@@ -1,0 +1,6 @@
+module Pods_RNKit_RNKitTests {
+  umbrella header "Pods-RNKit-RNKitTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
